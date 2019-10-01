@@ -45,7 +45,7 @@ public class Card {
                 valueOfCard = 9;
                 break;
             case ACE:
-                valueOfCard = 10;
+                valueOfCard = 11;
                 break;
         }
     }

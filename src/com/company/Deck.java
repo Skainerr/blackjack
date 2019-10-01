@@ -26,6 +26,9 @@ public class Deck {
         Collections.shuffle(listOfCard);
         return listOfCard;
     }
+    public int listSize(){
+        return listOfCard.size();
+    }
     public List<Card> getDeck(){
         return listOfCard;
     }
